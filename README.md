@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m @b-rbmp </h1>
 
 <p>
-  I'm an electrical engineering student interested in Embedded Systems, Microcontrollers, Internet of Things, Python and Vue.js.
+  I'm an electrical engineering student interested in Embedded Systems, Microcontrollers, Internet of Things, Python, Data Science and Vue.js.
 </p>
 
 <p>
