@@ -14,3 +14,7 @@ Currently learning how to create Web Apps using Vue.js/Python, working on my Dat
   <li><a href="https://calculadora-juros-compostos.herokuapp.com/">Calculadora de Juros Compostos</a>: Compound interest rate calculator running on Flask</li>
   <li><a href="https://valuation-br.herokuapp.com/">Valuation-BR</a>: Website that compares different valuation methods for brazilian stocks // Back-end running on Flask and Front-end running on Vue.js</li>
 </ul>
+
+<h2> My Portfolio </h2>
+
+<a href="https://b-rbmp.github.io/">Portfolio Link</a>
