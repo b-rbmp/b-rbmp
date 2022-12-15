@@ -1,14 +1,32 @@
 <h1> 👋 Hi, I’m @b-rbmp </h1>
 
 <p>
-  I'm an electrical engineering student interested in Embedded Systems, Microcontrollers, Internet of Things, Python, Data Science, and Vue.js.
+  Software full-stack engineer and data science hobbyist. Attained a degree in Electrical Engineering by the Federal University of Bahia (UFBA), having attended the French Grande École CPE-Lyon with an excellence scholarship awarded by CAPES. Speaks fluent Portuguese, English, and French, being a dual-citizen of 🇧🇷 & 🇮🇹 . Eager innovator, tech enthusiast, and data-driven profile, with more than 10 years of experience in tech and determined to specialize further in the Data Science and Software Engineering domain.
 </p>
 
-<p>
-Currently learning how to create Web Apps using Vue.js/Python, working on my Data Visualization skills, and working through college.
-</p>
 
-<h2> My Live Projects </h2>
+<h2> Programming Languages </h2>
+
+<ul>
+  <li>Python</li>
+  <li>JavaScript & Typescript</li>
+  <li>HTML/CSS/SCSS</li>
+  <li>SQL</li>
+  <li>C</li>
+  <li>Java</li>
+</ul>
+
+<h2> Frameworks </h2>
+
+<ul>
+  <li>FastAPI</li>
+  <li>Django</li>
+  <li>Flask</li>
+  <li>React</li>
+  <li>Next.JS</li>
+</ul>
+
+<h2> My Live Projects (To be updated) </h2>
 
 <ul>
   <li><a href="https://calculadora-juros-compostos.herokuapp.com/">Calculadora de Juros Compostos</a>: Compound interest rate calculator running on Flask</li>
@@ -16,4 +34,4 @@ Currently learning how to create Web Apps using Vue.js/Python, working on my Dat
   <li><a href="https://estudo-estagio-ee-ufba.herokuapp.com/">Estudo Anuncios de Estágio EE - UFBA</a>: Quantitative analysis of all the internship posters and advertisements shared through the Electrical Engineering Department's official email account. // Running on python/streamlit</li>
 </ul>
 
-<h2><a href="https://b-rbmp.github.io/">My Portfolio</a></h2>
+<h2><a href="https://b-rbmp.github.io/">My Portfolio (To be updated)</a></h2>
