@@ -34,4 +34,4 @@
   <li><a href="https://estudo-estagio-ee-ufba.herokuapp.com/">Estudo Anuncios de Estágio EE - UFBA</a>: Quantitative analysis of all the internship posters and advertisements shared through the Electrical Engineering Department's official email account. // Running on python/streamlit</li>
 </ul>
 
-<h2><a href="https://b-rbmp.github.io/">My Portfolio (To be updated)</a></h2>
+<h2><a href="https://b-rbmp.github.io/">My Portfolio</a></h2>
