@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m @b-rbmp </h1>
 
 <p>
-  Software full-stack engineer and AI Master Scholarship Holder at EMAI (Erasmus Mundus Joint Master in Artificial Intelligence). Attained a degree in Electrical Engineering by the Federal University of Bahia (UFBA), having attended the French Grande École CPE-Lyon with an excellence scholarship awarded by CAPES. Speaks fluent Portuguese, English, and French, being a dual-citizen of 🇧🇷 & 🇮🇹 . Eager innovator, tech enthusiast, and data-driven profile, with more than 10 years of experience in tech and determined to specialize further in the Data Science and Software Engineering domain.
+  Software full-stack engineer and AI Master Scholarship Holder at EMAI (Erasmus Mundus Joint Master in Artificial Intelligence). Attained a degree in Electrical Engineering by the Federal University of Bahia (UFBA), having attended the French Grande École CPE-Lyon with an excellence scholarship awarded by CAPES. Speaks fluent Portuguese, English, and French, and intermediate Italian, being a dual-citizen of Brazil & Italy . Eager innovator, tech enthusiast, and data-driven profile, with more than 10 years of experience in tech and determined to specialize further in the Data Science and Software Engineering domain.
 </p>
 
 
