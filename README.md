@@ -32,7 +32,7 @@
   <li>AWS</li>
   <li>Docker</li>
   <li>SLURM</li>
-  <li>GitHub Actions,</li>
+  <li>GitHub Actions</li>
   <li>Linux</li>
 </ul>
 
